@@ -1,0 +1,3 @@
+C:/Users/andya/Jose-Alburez-primer-parcial/cmake-build-debug/CMakeFiles/Jose_Alburez_primer_parcial.dir
+C:/Users/andya/Jose-Alburez-primer-parcial/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andya/Jose-Alburez-primer-parcial/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,29 @@
+#include <iostream>
+using namespace std;
+int main() {
+    //Desarrolla con c++ un ciclo que sume los numeros impares en una variable "a"
+    // y los numeros pares en una varible "b" en un rango de 0 a 50
+    // utilizando la estructura de control "for"//
+
+        int a = 0;
+        int b = 0;
+
+        for (int i = 0; i <= 50; ++i) {
+            if (i % 2 == 0) {
+
+                b += i;
+            } else {
+
+                a += i;
+            }
+        }
+
+       cout << "La suma de los numeros impares en el rango de 0 a 50 es: " << a <<endl;
+        cout << "La suma de los numeros pares en el rango de 0 a 50 es: " << b <<endl;
+
+        return 0;
+    
+
+
+    return 0;
+}
